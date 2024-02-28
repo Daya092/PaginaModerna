@@ -12,6 +12,16 @@
     transition: 0.3s;
 }
 
+.header-image {
+    position: relative;
+}
+
+ .img-1{
+    height: 350px;
+}
+
+
 .link a:hover {
     color: var(--primary-color);
 }
+
